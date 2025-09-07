@@ -4,6 +4,7 @@ title:  "Example Post Formatting"
 date:   2014-12-15
 image: touring.jpg
 description: This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
+published: false
 ---
 
 <p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
