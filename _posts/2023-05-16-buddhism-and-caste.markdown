@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "बौद्ध धर्म और जाति"
-date: 2025-09-07
+date: 2023-05-16
 tags: [level1]
 ---
 
