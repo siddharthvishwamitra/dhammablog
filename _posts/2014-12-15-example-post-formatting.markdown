@@ -2,7 +2,8 @@
 layout: post
 title:  "Example Post Formatting"
 date:   2014-12-15
-description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
+image: touring.jpg
+description: This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
 ---
 
 <p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
@@ -60,6 +61,14 @@ Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit t
 
 Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cras mattis consectetur purus sit amet fermentum.
 
-Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+<figure>
+	<img src="/assets/img/touring.jpg" alt=""> 
+	<figcaption>Fig1. - This is an example figcaption</figcaption>
+</figure>
 
-Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum. Nullam id dolor id nibh ultricies vehicula ut id elit.
+{%- highlight html -%}
+<figure>
+	<img src="/assets/img/touring.jpg" alt=""> 
+	<figcaption>Fig1. - This is an example figcaption</figcaption>
+</figure>
+{%- endhighlight -%}
