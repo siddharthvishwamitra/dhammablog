@@ -199,7 +199,7 @@ HEADER STYLING
 		padding-left: 2rem;
 		font-size: 1em;
 		line-height: 3em;
-		font-family: $sans-serif;
+		font-family: $serif;
 		font-weight: 800;
 		text-transform: uppercase;
 
@@ -219,6 +219,12 @@ POST STYLING
 		text-align: center;
 		margin-top: 2rem;
 		margin-bottom: 1rem;
+	}
+	
+	hr {
+    border: 0;
+    border-bottom: 1px dashed #ccc;
+    background: #999;
 	}
 
 	blockquote {
