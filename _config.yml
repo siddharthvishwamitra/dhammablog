@@ -1,7 +1,7 @@
 title: धम्म लेख
 description: धम्म लेख ब्लॉग में पढ़ें बुद्ध के उपदेश, पंचशील, ध्यान और जीवन में सही मार्गदर्शन सरल भाषा में।
 
-url: https://siddharthvishwamitra.github.io/dhammablog
+url: https://blog.bahd.eu.org
 baseurl: # Ex: /project-page
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
