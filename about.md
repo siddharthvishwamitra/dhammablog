@@ -1,10 +1,10 @@
 ---
 layout: default
-title: About
+title: बारे में
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About</h1>
+	<h1 class="pageTitle">बारे में</h1>
 	<img src="{{ '/assets/img/touring.jpg' | relative_url }}" alt="">
 	<p class="intro">Dhamma Blog is a space dedicated to exploring the teachings of the Buddha. It shares reflections on mindfulness, compassion, and the path to wisdom.</p>
 <p>This blog was created to inspire practice, encourage contemplation, and support anyone seeking clarity and peace in daily life. May it serve as a guide and companion on the journey of Dhamma.</p>

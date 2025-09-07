@@ -1,7 +1,7 @@
 {
   "name": "dhammablog",
   "version": "0.0.0",
-  "description": "A minimal, type-focused Jekyll theme. ",
+  "description": "धम्म लेख ब्लॉग में पढ़ें बुद्ध के उपदेश, पंचशील, ध्यान और जीवन में सही मार्गदर्शन सरल भाषा में।",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
