@@ -231,20 +231,16 @@ POST STYLING
 	blockquote {
 	position: relative;
 	margin: 2.5em auto;
-	padding: 1.5em 2em;
+	padding: 1.5em;
 	max-width: 700px;
-	font-style: italic;
 	font-size: 1.1rem;
 	line-height: 1.8;
-	color: #444;
-	background: #f9f9f9;
 	border-left: 5px solid seagreen;
 	
 	&::before {
 		content: "“";
 		font-size: 3rem;
 		line-height: 1;
-		color: #14b8a6;
 		position: absolute;
 		left: 10px;
 		top: 5px;
@@ -257,7 +253,6 @@ POST STYLING
 		margin-top: 0.8em;
 		font-size: 0.9rem;
 		font-style: normal;
-		color: #666;
 		text-align: right;
 		
 		&::before {
