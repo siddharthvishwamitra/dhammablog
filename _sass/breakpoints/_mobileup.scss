@@ -244,6 +244,14 @@ POST STYLING
 			top: 5px;
 		}
 		
+		p {
+  	margin: 1em 0 0.2em;
+	}
+		
+		p:last-child {
+  	margin-bottom: 0;
+  }
+		
 		cite {
 			display: block;
 			margin-top: 0.8em;
