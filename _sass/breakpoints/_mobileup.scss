@@ -60,6 +60,7 @@ LINK STYLING
 
 a {
 	color: $link-color;
+	text-decoration: none!important;
 
 	&:hover {
 		color: darken($link-color, 15%);
