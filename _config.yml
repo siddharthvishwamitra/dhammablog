@@ -19,7 +19,7 @@ paginate: 5
 
 navigation:
     - title: मुख्य
-      url: /index.html
+      url: /
     - title: बारे में
       url: /about
     - title: सम्पर्क
